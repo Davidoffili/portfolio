@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3001;
 app.use(express.static('./public'));
 
 app.get('/hello', (request, response) => {
-    response.status(200).send('Behold, Tha Get Route!');
+    response.status(200).send('Hello World!');
 });
 
 app.get('/data', (request, response) => {
