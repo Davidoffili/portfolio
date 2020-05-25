@@ -21,3 +21,7 @@ app.get('/data', (request, response) => {
     };
     response.status(200).json(h4X);
 });
+
+app.use('*', (request, response) => response.send('Yeah... you kinda drove off a cliff - NON EXISTENT ROUTE!'));
+
+app.listen(PORT,() => console.log(`Listening to Andre${PORT}, pretty exclusive stuff!`));
