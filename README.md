@@ -24,18 +24,18 @@ Finish time: 8:15 PM
 Actual time needed to complete: 1 Hr
 
 
-### Feature #3:
+### Feature #3: Deployment
 
-Estimate of time needed to complete: 1 Hour
+Estimate of time needed to complete: 3 Hour
 
-Start time:
+Start time: 5:00 PM
 
 Finish time: 
 
 Actual time needed to complete: _____
 
 
-### Feature #4:
+### Feature #4: Add Functionality
 
 Estimate of time needed to complete: 1 Hour
 
