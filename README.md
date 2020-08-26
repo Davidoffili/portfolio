@@ -1,5 +1,5 @@
 # David Palagashvili's Software Engineering Portfolio
-A portfolio of coding achievements, currently holds a meager selection.
+A portfolio of coding achievements
 
 
 ### Feature #1: Refactor the CSS
